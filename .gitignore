@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# CLion Idea files
+.idea
